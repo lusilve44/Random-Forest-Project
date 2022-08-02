@@ -15,3 +15,5 @@ statsmodels
 seaborn
 # Machine learning ----------------------------
 sklearn
+xgboost
+pickle
