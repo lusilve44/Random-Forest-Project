@@ -16,4 +16,4 @@ seaborn
 # Machine learning ----------------------------
 sklearn
 xgboost
-pickle
+pickle-mixin
